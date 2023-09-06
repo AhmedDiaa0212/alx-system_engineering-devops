@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# comment
+# Script that configures Nginx server with a custom header
 
 sudo apt update -y
 sudo apt upgrade -y
